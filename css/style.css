@@ -1,0 +1,49 @@
+
+body{
+    background-color:#373539;
+
+}
+h1{
+    font-family:fantasy;
+
+}
+span{
+    color: #dc2142;
+    font-size: 80px;
+}
+
+
+.qutesh1{
+font-size: 60px;
+color: white;
+}
+.qutesh3{
+color: white;
+}
+.qutesbutton{
+    color: white;
+    padding: 20px 37px;
+    background-color:#dc2142;
+    transition: 0.3s;
+}
+.qutesbutton:hover{
+    background-color:#0f9d5f;
+
+}
+.qutesh2{
+    color: white;
+
+}
+.qutesh5{
+    color: white;
+
+}
+.svginner{
+    opacity: 1;
+    position: absolute;
+    top: -7vh;
+    right: 0;
+height: 100vh;
+width: 100%;
+z-index: -1;
+}
